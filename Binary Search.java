@@ -1,11 +1,3 @@
-/******************************************************************************
-
-Welcome to GDB Online.
-GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
-C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
-Code, Compile, Run and Debug online from anywhere in world.
-
-*******************************************************************************/
 /*Binary Search: In this method the array when an element is to be searched should have the following characteristics:
 1. The array should be in-order that is either ascending or descending order for numeric arrays and alphabetical order in case of characters and strings.
 2. The start index and the last index of the array should be known.
