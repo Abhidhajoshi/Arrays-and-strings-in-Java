@@ -1,5 +1,5 @@
 /***Character Data Type**
-The Character dataa type is used to represwent a single character.A String is a group of characters.A character literal is always enclosed within a single quote.
+The Character data type is used to represwent a single character.A String is a group of characters.A character literal is always enclosed within a single quote.
 Since java follows the Unicode system of representing characaters in the memory,It occupies 2 bytes of memory space.
 You get the Unicode of a chracter by storing it into an integer variable or type casting it with int.*/
 
