@@ -1,7 +1,7 @@
 /*Binary Search: In this method the array when an element is to be searched should have the following characteristics:
 1. The array should be in-order that is either ascending or descending order for numeric arrays and alphabetical order in case of characters and strings.
 2. The start index and the last index of the array should be known.
-3. If index position of the element this is to be searched is to be determined,then the elements in it should be unique.This is because whenever a match is found it quits from the searching process.Thus if there are more than one position the element that is to be searched for occurs,then upon first match the searching process exits and there is no way the indexes where it may occur can be determined.
+3. If index position of the element is to be searched or to be determined,then the elements in it should be unique.This is because whenever a match is found it quits from the searching process.Thus if there are more than one position the element that is to be searched for occurs,then upon first match the searching process exits and there is no way the indexes where it may occur can be determined.
 The searching process can be understood with the following example,
 let the array be arr=[12,15,20,35,46,58,60,79,95]
 Thus first=0 indicates the starting index of the array from where it is to be searched.
