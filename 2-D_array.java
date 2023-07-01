@@ -1,7 +1,7 @@
 /***2-DIMENSIONAL ARRAY**
 The arrays, which were defined previously are called single dimensional array as it uses only a single dimensional array as it uses only a single subscript.
 Java, as with most languages, supports multi-dimensional arrays-1-dimensional,2-dimensional,3-dimensional, etc., depending upon the number of subscripts.
-Two dimensional arrays are reffered by 2 indexes or subscripts, first one called the row and second one called the column. Two dimensional arrays are also referred to as matrix or tables.*/
+Two dimensional arrays are referred by 2 indexes or subscripts, first one called the row and second one called the column. Two dimensional arrays are also referred to as matrix or tables.*/
 
 /***DECLARATION OF TWO-DIMENSIONAL ARRAYS**
 Before we use an array, we need to declare it like any other variable to allocate space in the memory. 
